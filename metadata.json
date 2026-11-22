@@ -1,0 +1,6 @@
+{
+  "name": "R-10 Programmer",
+  "description": "Program Icom IC-R10 memory channels over the OPC-478 cable from your browser. Built by AI Studio & PA2RY",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
